@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @CryptoPlunderer
-- MCISCS 
-- Blockchain Dev
-- Specializing in advanced data structures and memory optimization
-- BSV is Bitcoin
